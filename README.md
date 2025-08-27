@@ -134,7 +134,8 @@
   <div class="bio-card">
     <div class="bio-image">
       <!-- 🔥 Mets ici ton image -->
-      <img src="c:\Users\PC\Pictures\Screenshots\image_r1k-MxWN_1756119466496_512.webp" alt="Mon personnage stylé">
+     <img src="image.webp" alt="Mon image"> 
+
     </div>
 
     <h1>𝔖𝔱𝔦𝔠𝔙𝔲𝔦𝔩𝔡𝔢𝔯</h1>
@@ -164,4 +165,3 @@
 
 </body>
 </html>
-
